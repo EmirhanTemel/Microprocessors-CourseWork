@@ -1,2 +1,2 @@
 # Microprocessors-CourseWork
-This repository contains the coursework of EE321 - Microprocessors course.
+This repository contains the coursework in EE321 - Microprocessors course
